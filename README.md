@@ -8,4 +8,10 @@ This was built for Stanford's E40M (Autumn 2026), Lab 3b. It was built in two st
 
 So, using Claude Opus 5.5 High, we worked through optimizing the code, adding some QoL features, and finally connecting two of the arduinos using the serial connection. The end result is what you see in the demo video below. Pretty neat! The code for the main implementation is in ./e40m_lab3b.
 
+
+
+https://github.com/user-attachments/assets/ad7b3cd6-01d6-4f6c-b2c4-342295a448b4
+
+
+
 Full-quality demo: [media/demo.mp4](demo.mp4)
